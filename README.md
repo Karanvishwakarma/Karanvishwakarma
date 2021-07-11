@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Karanvishwakarma
-- 👀 I’m interested in frontend and Backend web development
-- 🌱 I’m currently learning ...angular
+- 👀 I’m interested in frontend web development
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ...@Djkaranv@gmail.com
 
